@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-
+<!-- 
 
 <a href="https://www.instagram.com/billydave269/"><img src="https://img.shields.io/twitter/url?label=Twitter&logo=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FRahulsthegreat&style=for-the-badge&logo=appveyor&color=<orange>" alt="Instagram"></a>
 
@@ -26,3 +26,4 @@ Here are some ideas to get you started:
 <a href="https://open.spotify.com/user/rishiosaur?si=-yOz-AfDR1msGjoKn65u6g"><img src="https://img.shields.io/badge/-rishiosaur-31099c?style=for-the-badge&amp;logo=Spotify&amp;logoColor=white&amp;link=https://open.spotify.com/user/rishiosaur?si=-yOz-AfDR1msGjoKn65u6g" alt="Spotify"></a>
 <a href="https://twitter.com/rishiosaur/"><img src="https://img.shields.io/badge/-rishiosaur-610cff?style=for-the-badge&amp;logo=Twitter&amp;logoColor=white&amp;link=https://twitter.com/rishiosaur/" alt="Twitter"></a>
 
+ -->
