@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ![image](https://user-images.githubusercontent.com/91423486/163479766-aa87b845-b454-4be9-ba1d-1815edb99885.png)
 
-<a href="https://www.instagram.com/billydave269/"><img src="https://img.shields.io/twitter/url?label=Twitter&logo=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FRahulsthegreat?style=for-the-badge&logo=appveyor&color=<orange>" alt="Instagram"></a>
+<a href="https://www.instagram.com/billydave269/"><img src="https://img.shields.io/twitter/url?label=Twitter&logo=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FRahulsthegreat&style=for-the-badge&logo=appveyor&color=<orange>" alt="Instagram"></a>
 
 
 
