@@ -29,7 +29,7 @@ Here are some ideas to get you started:
  -->
  
  
- [My-email](mailto:rahulscodingworld@gmail.com)
+ [My-email](mailto:faisal.sayed502@gmail.com)
  
  <a href="mailto:rahulscodingworld@gmail.com"><img src="https://img.shields.io/badge/-Email-ffa300?style=for-the-badge&amp;logo=Instagram&amp;logoColor=white&amp;link=mailto:rahulscodingworld@gmail.com" alt="Email"></a>
 
