@@ -27,3 +27,11 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/rishiosaur/"><img src="https://img.shields.io/badge/-rishiosaur-610cff?style=for-the-badge&amp;logo=Twitter&amp;logoColor=white&amp;link=https://twitter.com/rishiosaur/" alt="Twitter"></a>
 
  -->
+ 
+ 
+ <a href="mailto:rahulscodingworld@gmail.com"><img src="https://img.shields.io/badge/-Email-ffa300?style=for-the-badge&amp;logo=Instagram&amp;logoColor=white&amp;link=mailto:rahulscodingworld@gmail.com" alt="Email"></a>
+
+ 
+ 
+ 
+ 
